@@ -13,7 +13,7 @@ from pypdf import PdfReader
 # Configuration
 # =========================
 APP_TITLE = "AI Resume ATS Analyzer"
-MODEL_NAME = "gemini-3.6-flash"
+MODEL_NAME = "gemini-3.5-flash"
 MAX_FILE_SIZE_MB = 10
 MAX_RESUME_CHARS = 50000
 
